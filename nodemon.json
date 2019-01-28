@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER": "gabriel",
+        "MONGO_PASSWORD": "H9KiOOzARReQ0Lbt",
+        "MONGO_DB": "stock-grahpql-dev"
+    }    
+}
